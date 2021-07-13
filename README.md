@@ -1,3 +1,3 @@
 # C-programing-
 C codes
-dgncg
+dgn
